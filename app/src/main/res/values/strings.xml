@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">给记录加一个标题</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">细节</string>
+    <string name="crime_solved_label">已解决</string>
+    <string name="crime_police_label">呼叫警察</string>
+    <string name="btn_to_first">To First</string>
+    <string name="btn_to_last">To Last</string>
+    <string name="date_picker_title">违纪日期</string>
+    <string name="new_crime">新记录</string>
+    <string name="show_subtitle">显示记录条数</string>
+    <string name="hide_subtitle">隐藏记录条数</string>
+    <string name="subtitle_format">%1$d 条记录</string>
+    <string name="delete_crime">删除记录</string>
+    <string name="null_crime_list_text">尚未存在记录</string>
+    <string name="add_crime">添加记录</string>
+    <string name="crime_suspect_text">选择联系人</string>
+    <string name="crime_report_text">发送违纪报告</string>
+    <string name="crime_report">%1$s! 违纪在 %2$s. %3$s, %4$s 和 %5$s被发现</string>
+    <string name="crime_report_solved">该违纪已经解决了</string>
+    <string name="crime_report_unsolved">该违纪还没有解决</string>
+    <string name="crime_report_requirePolice">需要报警</string>
+    <string name="crime_report_not_requirePolice">无需报警</string>
+    <string name="crime_report_no_suspect">没有违纪人员</string>
+    <string name="crime_report_suspect">违纪人员是:  %s</string>
+    <string name="crime_report_subject">CriminalIntent违纪报告</string>
+    <string name="send_report">发送违纪报告通过: </string>
+    <string name="call_suspect">拨打嫌疑人电话</string>
+    <string name="call_110">call 110</string>
+
+</resources>
